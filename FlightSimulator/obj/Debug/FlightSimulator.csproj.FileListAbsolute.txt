@@ -1,0 +1,9 @@
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\bin\Debug\Source.dll
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\bin\Debug\Source.pdb
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojResolveAssemblyReference.cache
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+c:\users\максим\source\repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
